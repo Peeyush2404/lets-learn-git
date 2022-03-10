@@ -229,7 +229,7 @@ const Home = () => {
         results ={answers}
         data ={quizData.data}
       />}
-      {/* <Videos/> */}
+      <Videos/>
       {/* <Leaderboard/> */}
         </>
     )
